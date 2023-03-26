@@ -1,16 +1,43 @@
 i.logo {
-  color: white;
+  color: pink;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 5px;
   padding-right: 5px;
 }
 
-p.logo-desc {
+/* p.logo-desc {
   color: white;
   padding-top: 5px;
-}
+} */
 
 div.botbar {
   background-color: rgb(35, 34, 34);
+}
+
+/* p.goals {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+} */
+
+div.goals {
+  background-color: pink;
+}
+
+img.headshot {
+  max-width: 75%;
+  height: auto;
+
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+
+  border-radius: 50%;
+
+}
+
+div.cardtainer {
+  padding-bottom: 100px;
+  padding-top: 10px;
 }
