@@ -8,11 +8,15 @@ i.logo {
 
 /* p.logo-desc {
   color: white;
-  padding-top: 5px;
+  padding-top: 5px;∫
 } */
 
 div.botbar {
   background-color: rgb(35, 34, 34);
+}
+
+a.btn-color {
+  background-color: pink;
 }
 
 /* p.goals {
