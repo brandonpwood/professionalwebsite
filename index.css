@@ -1,9 +1,15 @@
 i.logo {
-  color: pink;
+  color: white;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 5px;
   padding-right: 5px;
+}
+
+img.emblem {
+  border: 1px solid gray;
+  width: 100%;
+  height: 100%;
 }
 
 /* p.logo-desc {
@@ -16,7 +22,7 @@ div.botbar {
 }
 
 a.btn-color {
-  background-color: pink;
+  background-color: black;
 }
 
 /* p.goals {
@@ -25,7 +31,7 @@ a.btn-color {
 } */
 
 div.goals {
-  background-color: pink;
+  background-color: white;
 }
 
 img.headshot {
@@ -44,4 +50,6 @@ img.headshot {
 div.cardtainer {
   padding-bottom: 100px;
   padding-top: 10px;
+  padding-left: 8%;
+  padding-right: 8%;
 }
